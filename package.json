@@ -1,0 +1,19 @@
+{
+  "name": "cypressframework",
+  "version": "1.0.0",
+  "description": "Framework proposal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cypress",
+    "framework",
+    "qa"
+  ],
+  "author": "zerg",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
